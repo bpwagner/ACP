@@ -1,0 +1,3 @@
+first,second,badge,canSignOut
+brian,wagner,46/34234,True
+seth,hatton,46/4565,False
